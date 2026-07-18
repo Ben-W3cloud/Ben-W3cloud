@@ -1,6 +1,6 @@
 # Hey, I'm Big Ben
 
-** Software Engineer | Web3 Developer **
+**Software Engineer | Web3 Developer**
 
 I'm a software engineer passionate about building mobile applications, scalable backend systems, and privacy-preserving blockchain infrastructure.
 
